@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm a ... 
 
-![0 3 copy](https://github.com/Sanjay-George/Sanjay-George/assets/10389062/86435dfc-219d-4111-8f62-3ebccd346e7c)
+![image](https://github.com/Sanjay-George/Sanjay-George/assets/10389062/fedabc1a-a396-4a92-9ff5-20f98b0834ad)
 
 ### 👨‍💻 I'm currently working on
 - Cloud-native development on Azure
