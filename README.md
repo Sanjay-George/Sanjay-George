@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi there 👋 I'm a ... 
+
+![0 3 copy](https://github.com/Sanjay-George/Sanjay-George/assets/10389062/86435dfc-219d-4111-8f62-3ebccd346e7c)
+
+### 👨‍💻 I'm currently working on
+- Cloud-native development on Azure
+- Architecting event-driven solution for a real-time monitoring system
+- ...and many other smaller tasks which is just part of the fun!
+
+### 🔭 Domains I'm most interested in
+- Cloud (Plaform) Engineering
+- DevOps
+- In general, I 🖤 architecting and implementing solutions
+
+
+
+
+
+
 
 <!--
 **Sanjay-George/Sanjay-George** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
