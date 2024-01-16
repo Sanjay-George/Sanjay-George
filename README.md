@@ -12,8 +12,10 @@
 - DevOps
 - In general, I 🖤 architecting and implementing solutions
 
-
-
+### 🚀 Related accounts
+Nothing fancy, just a solid contributor to several repos at work
+- https://github.com/sgeorge-nb
+- https://github.com/cw-sanjaygeorge
 
 
 
