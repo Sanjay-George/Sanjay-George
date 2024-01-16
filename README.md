@@ -15,7 +15,7 @@
 ### 🚀 Related accounts
 Nothing fancy, just a solid contributor to several repos at work
 - https://github.com/sgeorge-nb
-- https://github.com/cw-sanjaygeorge
+- [https://github.com/cw-sanjaygeorge](https://github.com/cw-sanjaygeorge?tab=overview&from=2021-12-01&to=2021-12-31)
 
 
 
