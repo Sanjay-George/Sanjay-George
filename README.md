@@ -8,9 +8,9 @@
 - ...and many other smaller tasks which is just part of the fun!
 
 ### 🔭 Domains I'm most interested in
-- Cloud (Plaform) Engineering
-- DevOps
-- In general, I 🖤 architecting and implementing solutions
+- Software Engineering
+- DevOps & Cloud architecture 
+- In general, I 🖤 designing and implementing solutions
 
 ### 🚀 Related accounts
 Nothing fancy, just a solid contributor to several repos at work
