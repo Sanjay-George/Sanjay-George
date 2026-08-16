@@ -1,6 +1,9 @@
 ### Hi there 👋 I'm a ... 
 
-![image](https://github.com/Sanjay-George/Sanjay-George/assets/10389062/fedabc1a-a396-4a92-9ff5-20f98b0834ad)
+<img height="250" alt="se_pad_transparent" src="https://github.com/user-attachments/assets/b4c36b54-c286-488e-8cd1-c5b2e7d9ed53" />
+
+<!-- ![image](https://github.com/Sanjay-George/Sanjay-George/assets/10389062/fedabc1a-a396-4a92-9ff5-20f98b0834ad) -->
+
 
 ### 👨‍💻 I'm currently working on
 - Cloud-native development on Azure
