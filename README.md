@@ -8,12 +8,13 @@
 ### 👨‍💻 I'm currently working on
 - Cloud-native development on Azure
 - Architecting event-driven solution for a real-time monitoring system
-- ...and many other smaller tasks which is just part of the fun!
+- ...and other units of work that I can't disclose!
 
 ### 🔭 Domains I'm most interested in
 - Software Engineering
-- DevOps & Cloud architecture 
-- In general, I 🖤 designing and implementing solutions
+- DevOps & Cloud architecture
+- Data & Database engineering 
+- In general, I 🖤 building simple & reliable systems.
 
 ### 🚀 Related accounts
 Nothing fancy, just a solid contributor to several repos at work
